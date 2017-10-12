@@ -1,2 +1,3 @@
 new a file
 modify1
+modify2
